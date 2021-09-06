@@ -39,4 +39,3 @@ elif randm == 3:
 print(f'you have chosen "{you}" comp has choosen "{comp}" ')
 W=win(comp,you)
 print(W)
-get.cwd
